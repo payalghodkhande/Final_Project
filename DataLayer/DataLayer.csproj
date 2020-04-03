@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayers\DataAccessLayers.csproj" />
     <ProjectReference Include="..\Pocos\Pocos.csproj" />
   </ItemGroup>
 
