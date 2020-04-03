@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayers", "DataAccessLayers\DataAccessLayers.csproj", "{59DEF8D3-72A3-4094-852F-1FD17849DC6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPT", "RESTAPT\RESTAPT.csproj", "{11BF413C-7AFE-4342-832F-6EE2941F4791}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{59DEF8D3-72A3-4094-852F-1FD17849DC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59DEF8D3-72A3-4094-852F-1FD17849DC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59DEF8D3-72A3-4094-852F-1FD17849DC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BF413C-7AFE-4342-832F-6EE2941F4791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BF413C-7AFE-4342-832F-6EE2941F4791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BF413C-7AFE-4342-832F-6EE2941F4791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BF413C-7AFE-4342-832F-6EE2941F4791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

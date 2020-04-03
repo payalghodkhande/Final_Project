@@ -12,6 +12,7 @@ namespace Logic
         {
 
         }
+     
 
         protected override void Verify(Book[] pocos)
         {
